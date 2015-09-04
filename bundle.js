@@ -9305,7 +9305,7 @@
 
 
 	// module
-	exports.push([module.id, "body {\n  background: purple;\n}\n", ""]);
+	exports.push([module.id, "body {\n  background: blue;\n}\n", ""]);
 
 	// exports
 
